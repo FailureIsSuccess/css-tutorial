@@ -1,0 +1,8 @@
+.paint .bomb{font-size: 28px; font-family: helvetica,'Times New Roman', sans-serif;}
+
+.paint{background-color: black;color: white;}
+
+
+.bomb{background-color: yellow;}
+
+* {box-sizing: border-box;}
